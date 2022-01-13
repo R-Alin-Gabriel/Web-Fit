@@ -20,6 +20,7 @@ Compatible with all mobile devices
 * styles.css
 * app.js
 * img folder
+### A preview of the Website
 
-<img src="img/preview.jpg" width="700">
+<img src="img/preview.jpg" width="900">
 
