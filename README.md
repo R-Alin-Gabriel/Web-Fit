@@ -1,10 +1,10 @@
 # Fitness Website
 
-I have built a one-page responsive Fitness website using: 
+#### I have built a one-page responsive Fitness website using: 
 * HTML
 * CSS
-* JavaScript
-Compatible with all mobile devices 
+* JavaScript 
+#### Compatible with all mobile devices 
 
 ### Features 
 * One Page Layout
