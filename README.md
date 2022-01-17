@@ -1,11 +1,20 @@
 # Fitness Website
 
-I have build a Fitness responsive website using: 
+I have built a one-page responsive Fitness website using: 
 * HTML
 * CSS
 * JavaScript
 Compatible with all mobile devices 
 
+### Features 
+* One Page Layout
+* Custom Icons
+* Drop Down Hamburger Menu
+* On-hover Effect
+* Responsive Layout
+* Social Media Icons
+* Email Subscription
+* Rich Footer Available
 
 ### Technologies
 
@@ -20,7 +29,8 @@ Compatible with all mobile devices
 * styles.css
 * app.js
 * img folder
-### A preview of the Website
 
-<img src="img/preview.jpg" width="900">
+### A preview-image of the Website
+
+<img src="img/Preview.png" width="900">
 
